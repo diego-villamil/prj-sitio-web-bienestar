@@ -1,0 +1,43 @@
+.container1{
+    padding: 1em;
+    overflow: hidden;
+}
+.container2{
+    text-align: center;
+    overflow: hidden;
+    padding: 1em;
+}
+#imgeq{
+    float: right;
+}
+#peq{
+    float: left;
+    height: 500px;
+    width: 650px;
+}
+#equipo1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px darkgrey solid;
+    display: inline-block;
+}
+
+
+#equipo2{
+    
+    border: 2px darkgray solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+}
+
+
+#equipo3{
+
+    border: 2px darkgray solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+}
+
+.correo{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
